@@ -6,7 +6,7 @@ This is a simple single-page personal website with these sections:
 - Selected Work
 - Publications
 - Experience
-- Teaching
+- Teaching & Mentorship
 - Education
 - Awards & Service
 
