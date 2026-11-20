@@ -6,9 +6,9 @@ This is a simple single-page personal website with these sections:
 - Selected Work
 - Publications
 - Experience
-- Teaching & Mentorship
 - Education
 - Awards & Service
+- Teaching & Mentorship
 
 It is ready for GitHub Pages hosting.
 

@@ -528,9 +528,9 @@ footer a:hover {
 #selected-work { animation-delay: 60ms; }
 #publications { animation-delay: 110ms; }
 #experience { animation-delay: 160ms; }
-#teaching { animation-delay: 210ms; }
-#education { animation-delay: 260ms; }
-#awards { animation-delay: 310ms; }
+#education { animation-delay: 210ms; }
+#awards { animation-delay: 260ms; }
+#teaching { animation-delay: 310ms; }
 
 @keyframes rise {
   from {
